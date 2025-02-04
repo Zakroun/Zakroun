@@ -7,7 +7,6 @@
   - [💼 LinkedIn](https://www.linkedin.com/in/zakaryae-rouane-53086229a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I recently started my Instagram journey , and I’m on a mission to grow my audience by sharing valuable web development tutorials!
-- 
 <!---
 Zakroun/Zakroun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
