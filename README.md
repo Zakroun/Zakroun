@@ -1,47 +1,140 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">👋 Hey there, I'm Zakaryae Rouane!</h1>
+
+###
+
+<p align="center">
+  <b>Full Stack Web Developer | React & Laravel Enthusiast | Content Creator</b>
+</p>
 
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,laravel,php,python,mysql,git,github,nodejs,django,mongodb,wordpress" height="60" alt="tech stack" />
 </div>
 
 ###
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Web%20Development-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Meknès%2C%20Morocco-green?style=for-the-badge" />
+</p>
+
+---
+
+### 🧠 About Me
+
+- 👋 Hi, I’m **@Zakroun**  
+- 👀 I’m passionate about **web development**, **teaching**, and **creating engaging educational content**.  
+- 🌱 I’m currently learning **advanced HTML techniques** and producing a **video series for beginners**.  
+- 💼 I’m a **Full Stack Developer** trained at **OFPPT (2023–2025)**.  
+- 💻 Experienced in building real projects like:
+  - **DocSaura** → an online medical appointment management app.  
+  - **ChatHub** → a simple, real-time messaging app with contact management.  
+- 💞️ I love collaborating on **creative and educational web projects**.  
+- ⚡ Fun fact: I’m growing my **Instagram community** by sharing web development tutorials!
+
+---
+
+### 📬 Connect With Me
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+  <a href="https://www.instagram.com/coding.withzak/profilecard/?igsh=YjZxOHlwaTNseHps" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/zakaryae-rouane-53086229a" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:zakaryaerouane@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Email"/>
+  </a>
 </div>
 
-###
+---
+
+### 🛠️ Technical Skills
+
+#### 💻 Frontend
+- HTML5, CSS3, JavaScript (ES6+)
+- React.js, Tailwind CSS, Next.js, Storybook
+
+#### ⚙️ Backend
+- PHP (Laravel), Node.js, Django, RESTful APIs
+
+#### 🧩 Database
+- MySQL, MongoDB
+
+#### ☁️ Tools & Platforms
+- Git, GitHub, VSCode, Figma, Postman, AWS
+
+#### 🎨 Others
+- UI/UX basics, Photoshop, Responsive Design
+
+---
+
+### 🎓 Education & Certifications
+
+- 🧾 **Technicien Spécialisé en Développement Web** – OFPPT (2023–2025)  
+- 🎓 **Baccalauréat** – Lycée Lala Amina (2023)  
+- 🐍 **Python Certificate** – 2024  
+- 🧮 **SQL Certificate** – 2024  
+- 💻 **Git & GitHub Certificate** – 2024  
+
+---
+
+### 💼 Experience
+
+#### 🧩 Internship @ **Yonetwork** (Meknès, 2025)
+- Built a **QR Code attendance tracking app** using **React + Laravel**  
+- Integrated full stack features and **API RESTful connections**  
+- Collaborated with a remote dev team using **Git & GitHub**
+
+#### 💬 Internship @ **OSI Software** (Rabat, 2025)
+- Developed **React + Laravel web modules**
+- Worked in **team collaboration & version control**
+- Enhanced UI/UX for real-world applications
+
+---
+
+### 🚀 Featured Projects
+
+#### 🩺 DocSaura
+- A web platform for **medical appointment management**  
+- Includes registration, online scheduling, notifications & reminders  
+- Stack: **React, Laravel, MySQL**
+
+#### 💬 ChatHub
+- Real-time **messaging app** with contact management  
+- Stack: **HTML, CSS, JS, PHP, MySQL**
+
+---
+
+### 🌍 Languages
+
+- 🇫🇷 French — Fluent  
+- 🇬🇧 English — Intermediate  
+- 🇲🇦 Arabic — Native  
+
+---
+
+### 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Zakroun&show_icons=true&theme=dracula" height="150" alt="stats graph"/>
+  <img src="https://streak-stats.demolab.com?user=Zakroun&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"/>
 </div>
 
-###
+---
+
+### 🏆 Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=Zakroun&theme=dracula&column=3&margin-w=15&margin-h=15" height="140" alt="trophies"/>
+</div>
+
+---
+
+### 🎮 Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
@@ -49,4 +142,16 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+---
+
+### 💬 Personal Quote
+
+> "Code. Create. Inspire.  
+> Every line you write is a step closer to your vision."
+
+---
+
+<!---
+Zakroun/Zakroun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
