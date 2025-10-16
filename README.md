@@ -74,7 +74,7 @@
 
 ### 🎓 Education & Certifications
 
-- 🧾 **Technicien Spécialisé en Développement Web** – OFPPT (2023–2025)  
+- 🧾 **Technicien Spécialisé en Développement Web** (2023–2025)  
 - 🎓 **Baccalauréat** – Lycée Lala Amina (2023)  
 - 🐍 **Python Certificate** – 2024  
 - 🧮 **SQL Certificate** – 2024  
@@ -111,9 +111,9 @@
 
 ### 🌍 Languages
 
-- 🇫🇷 French — Fluent  
-- 🇬🇧 English — Intermediate  
-- 🇲🇦 Arabic — Native  
+- 🇫🇷 French   
+- 🇬🇧 English   
+- 🇲🇦 Arabic   
 
 ---
 
@@ -121,7 +121,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Zakroun&show_icons=true&theme=dracula" height="150" alt="stats graph"/>
-  <img src="https://streak-stats.demolab.com?user=Zakroun&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"/>
 </div>
 
 ---
@@ -131,16 +130,6 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=Zakroun&theme=dracula&column=3&margin-w=15&margin-h=15" height="140" alt="trophies"/>
 </div>
-
----
-
-### 🎮 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
 
 ---
 
