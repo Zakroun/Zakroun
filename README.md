@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./headerimage.png" alt="Header Banner" width="100%" style="border-radius: 12px;" />
+</div>
+
 <h1 align="center">👋 Hey there, I'm Zakaryae Rouane!</h1>
 
 ###
