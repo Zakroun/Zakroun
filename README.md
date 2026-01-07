@@ -32,15 +32,45 @@
 
 ### 🧠 About Me
 
-- 👋 Hi, I’m **@Zakroun**  
-- 👀 I’m passionate about **web development**, **teaching**, and **creating engaging educational content**.  
-- 🌱 I’m currently learning **advanced HTML techniques** and producing a **video series for beginners**.  
-- 💼 I’m a **Full Stack Developer** trained at **OFPPT (2023–2025)**.  
-- 💻 Experienced in building real projects like:
-  - **DocSaura** → an online medical appointment management app.  
-  - **ChatHub** → a simple, real-time messaging app with contact management.  
-- 💞️ I love collaborating on **creative and educational web projects**.  
-- ⚡ Fun fact: I’m growing my **Instagram community** by sharing web development tutorials!
+- 👋 Hi, I’m Zakroun
+
+- 👨‍💻 I’m a Full Stack Web Developer with strong experience in React, Laravel, PHP, and modern CSS frameworks
+
+- 🎓 Trained at OFPPT (2023–2025) with a solid background in building real-world, production-ready applications
+
+- 🚀 I build scalable web platforms including e-commerce, AI tools, healthcare, and education systems
+
+- 💼 Key Projects I’ve Worked On:
+
+- DocsAura 🏥 – Healthcare appointment platform for doctors and patients
+
+- HomeNest 🏠 – Real estate selling & rental platform with admin dashboard
+
+- Unicomnova AI 🤖 – AI-powered chatbot with analytics and admin panel
+
+- AFCON 2025 ⚽ – Football web app with matches, teams, groups, and live scores
+
+- TripPlanner ✈️ – Travel planning app with personalized itineraries
+
+- HomixStore & 3otor 🛒 – Full-featured e-commerce platforms
+
+- Edulead 🎓 – Online education platform with courses and dashboards
+
+🛠️ Tech Stack:
+
+- Frontend: HTML5, CSS3, JavaScript, React, Tailwind, Bootstrap
+
+- Backend: Laravel, PHP
+
+- Tools: Git, GitHub, Docker, Postman, Jira
+
+- Design: Figma, Photoshop
+
+- CMS: WordPress
+
+- 🤝 I enjoy collaborating on innovative and impactful web projects
+
+- 📈 Fun fact: I share web development tips & tutorials and I’m growing my online community 🚀
 
 ---
 
