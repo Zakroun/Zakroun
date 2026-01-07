@@ -94,16 +94,16 @@
 
 #### 💻 Frontend
 - HTML5, CSS3, JavaScript (ES6+)
-- React.js, Tailwind CSS, Next.js, Storybook
+- React.js, Tailwind CSS
 
 #### ⚙️ Backend
-- PHP (Laravel), Node.js, Django, RESTful APIs
+- PHP (Laravel), Node.js, RESTful APIs
 
 #### 🧩 Database
 - MySQL, MongoDB
 
 #### ☁️ Tools & Platforms
-- Git, GitHub, VSCode, Figma, Postman, AWS
+- Git, GitHub, VSCode, Figma, Postman
 
 #### 🎨 Others
 - UI/UX basics, Photoshop, Responsive Design
@@ -121,6 +121,10 @@
 ---
 
 ### 💼 Experience
+#### 🧩 Internship @ **Medyouin** (Meknès, 2025)
+- build a **Ai chat** using **Laravel + mysql **
+- Integrated full stack features and **API RESTful connections**   
+- Collaborated with a remote dev team using **Git & GitHub**
 
 #### 🧩 Internship @ **Yonetwork** (Meknès, 2025)
 - Built a **QR Code attendance tracking app** using **React + Laravel**  
@@ -131,19 +135,6 @@
 - Developed **React + Laravel web modules**
 - Worked in **team collaboration & version control**
 - Enhanced UI/UX for real-world applications
-
----
-
-### 🚀 Featured Projects
-
-#### 🩺 DocSaura
-- A web platform for **medical appointment management**  
-- Includes registration, online scheduling, notifications & reminders  
-- Stack: **React, Laravel, MySQL**
-
-#### 💬 ChatHub
-- Real-time **messaging app** with contact management  
-- Stack: **HTML, CSS, JS, PHP, MySQL**
 
 ---
 
