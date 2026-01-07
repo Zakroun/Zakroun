@@ -14,7 +14,7 @@
 
 <div align="center">
 <img 
-  src="https://skillicons.dev/icons?i=html,css,js,react,laravel,postman,php,python,mysql,jira,git,github,nodejs,mongodb,wordpress,figma" 
+  src="https://skillicons.dev/icons?i=html,css,js,react,laravel,postman,php,python,jira,git,github,nodejs,mongodb,wordpress,figma" 
   alt="Tech Stack Icons"
   style="max-width: 100%; height: auto;"
 />
