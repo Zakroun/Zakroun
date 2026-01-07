@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,laravel,postman,php,python,mysql,jira,git,github,nodejs,mongodb,wordpress,figna,photoshop" height="60" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,laravel,postman,php,python,mysql,jira,git,github,nodejs,mongodb,wordpress,figma" height="60" alt="tech stack" />
 </div>
 
 ###
