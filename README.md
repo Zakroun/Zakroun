@@ -146,22 +146,6 @@
 
 ---
 
-### 📈 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zakroun&show_icons=true&theme=dracula" height="150" alt="stats graph"/>
-</div>
-
----
-
-### 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=Zakroun&theme=dracula&column=3&margin-w=15&margin-h=15" height="140" alt="trophies"/>
-</div>
-
----
-
 ### 💬 Personal Quote
 
 > "Code. Create. Inspire.  
