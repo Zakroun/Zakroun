@@ -138,14 +138,6 @@
 
 ---
 
-### 🌍 Languages
-
-- 🇫🇷 French   
-- 🇬🇧 English   
-- 🇲🇦 Arabic   
-
----
-
 ### 💬 Personal Quote
 
 > "Code. Create. Inspire.  
