@@ -2,7 +2,13 @@
   <img src="./header.png" alt="Header Banner" width="100%" style="border-radius: 12px; height: 320px; border-raduis: 10px; object-fit: cover;" />
 </div>
 
-<h1 align="center">👋 Hey there, I'm Zakaryae Rouane!</h1>
+<h1 align="center">👋 Hey there, I'm Zakaryae Rouane! </h1>
+<h3 align="center">
+  <a href="https://zakaryaerouane-portfolio.vercel.app/" style="" target="_blank">
+    🌐 Professional Portfolio
+  </a>
+</h3>
+
 
 ###
 
