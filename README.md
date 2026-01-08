@@ -3,7 +3,6 @@
 </div>
 
 <h1 align="center">👋 Hey there, I'm Zakaryae Rouane! </h1>
-###
 <p align="center">
   <b>Full Stack Web Developer | React & Laravel Enthusiast | Content Creator</b>
 </p>
