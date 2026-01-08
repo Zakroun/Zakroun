@@ -8,11 +8,11 @@
 </p>
 
 ###
-<h3 align="center">
+<h2 align="center">
   <a href="https://zakaryaerouane-portfolio.vercel.app/" style="" target="_blank">
     🌐 Professional Portfolio
   </a>
-</h3>
+</h2>
 
 <div align="center">
 <img 
