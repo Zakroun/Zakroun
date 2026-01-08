@@ -3,20 +3,16 @@
 </div>
 
 <h1 align="center">👋 Hey there, I'm Zakaryae Rouane! </h1>
-<h3 align="center">
-  <a href="https://zakaryaerouane-portfolio.vercel.app/" style="" target="_blank">
-    🌐 Professional Portfolio
-  </a>
-</h3>
-
-
-###
-
 <p align="center">
   <b>Full Stack Web Developer | React & Laravel Enthusiast | Content Creator</b>
 </p>
 
 ###
+<h3 align="center">
+  <a href="https://zakaryaerouane-portfolio.vercel.app/" style="" target="_blank">
+    🌐 Professional Portfolio
+  </a>
+</h3>
 
 <div align="center">
 <img 
