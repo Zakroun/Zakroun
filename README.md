@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./header (2).png" alt="Banner" width="100%" />
+<!-- <img src="./header (2).png" alt="Banner" width="100%" /> -->
 
 <br/>
 <br/>
