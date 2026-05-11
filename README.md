@@ -1,195 +1,198 @@
 <div align="center">
-  <img 
-    src="./header (2).png" 
-    alt="Zakaryae Rouane Banner" 
-    width="100%" 
-    style="border-radius: 14px; object-fit: cover;"
-  />
+
+<img src="./header (2).png" alt="Banner" width="100%" />
+
+<br/>
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Zakaryae+Rouane;Full+Stack+Web+%26+Mobile+Developer;React+%7C+Laravel+%7C+Flutter+Developer;Building+Modern+Digital+Experiences;AI+Enthusiast+%26+Content+Creator" />
+
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mobile-Flutter%20Developer-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI-Powered%20Apps-222222?style=for-the-badge" />
+</p>
+
+<br/>
+
+<a href="https://zakaryaerouane-portfolio.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="mailto:zakaryaerouane@gmail.com">
+  <img src="https://img.shields.io/badge/📩_Contact_Me-111111?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 </div>
 
-<h1 align="center">Hi 👋, I'm Zakaryae Rouane</h1>
+---
 
-<h3 align="center">
-Full Stack Web & Mobile Developer • React • Laravel • Flutter • AI Enthusiast
-</h3>
+# 🧠 About Me
 
-<p align="center">
-Passionate about building modern, scalable, and impactful digital experiences.
-</p>
+```yaml
+name: Zakaryae Rouane
+located_in: Morocco 🇲🇦
+current_focus:
+  [
+    "Full Stack Web Development",
+    "Flutter Mobile Apps",
+    "AI Applications",
+    "Modern UI/UX"
+  ]
+
+education:
+  [
+    "Specialized Technician in Web Development - OFPPT"
+  ]
+
+fields_of_interest:
+  [
+    "Web Applications",
+    "Mobile Development",
+    "Artificial Intelligence",
+    "UI/UX Design",
+    "E-commerce Platforms"
+  ]
+
+currently_learning:
+  [
+    "Advanced Flutter",
+    "AI Integrations",
+    "System Design",
+    "Scalable Architectures"
+  ]
+
+2026_goals:
+  [
+    "Build impactful SaaS products",
+    "Grow developer audience",
+    "Contribute to open source",
+    "Launch innovative AI applications"
+  ]
+```
 
 ---
 
-<h2 align="center">
-  🌐 Portfolio Website
-</h2>
-
-<p align="center">
-  <a href="https://zakaryaerouane-portfolio.vercel.app/" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/Visit-Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white" 
-      alt="Portfolio"
-    />
-  </a>
-</p>
-
----
-
-## 🚀 About Me
-
-- 👨‍💻 Full Stack Web & Mobile Developer from Morocco 🇲🇦
-- 🎓 Specialized Technician in Web Development (OFPPT 2023–2025)
-- 💡 Passionate about creating high-quality web applications, AI tools, and modern mobile apps
-- 🔥 Focused on clean UI/UX, scalable architecture, and performance
-- 📱 Currently exploring advanced Flutter & AI integrations
-- 🌍 Open to freelance, internships, and collaboration opportunities
-- 📈 Content creator sharing coding knowledge and development tips
-
----
-
-## 🛠️ Tech Stack
+# 🚀 Tech Arsenal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,php,laravel,nodejs,python,dart,flutter,mysql,mongodb,firebase,docker,git,github,figma,postman,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,php,laravel,nodejs,python,dart,flutter,firebase,mysql,mongodb,docker,git,github,figma,postman,vscode&perline=8" />
 
 </div>
 
 ---
 
-# 💻 Technologies & Tools
+# ⚡ Expertise
 
-### 🎨 Frontend Development
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- TypeScript
-- React.js
-- Next.js
-- Tailwind CSS
-- Bootstrap
+<div align="center">
 
-### ⚙️ Backend Development
-- PHP
-- Laravel
-- Node.js
-- RESTful APIs
+| 💻 Frontend | ⚙️ Backend | 📱 Mobile | 🗄️ Database |
+|---|---|---|---|
+| React.js | Laravel | Flutter | MySQL |
+| Next.js | PHP | Dart | MongoDB |
+| Tailwind CSS | Node.js | Firebase | REST APIs |
+| JavaScript | API Integration | Cross Platform | Database Design |
 
-### 📱 Mobile Development
-- Flutter
-- Dart
-- Firebase
-
-### 🗄️ Databases
-- MySQL
-- MongoDB
-
-### ☁️ Tools & Platforms
-- Git
-- GitHub
-- Docker
-- Postman
-- VS Code
-- Figma
-
-### 🎭 Design & UI/UX
-- Responsive Design
-- UI/UX Fundamentals
-- Photoshop
+</div>
 
 ---
 
-# 🚀 Featured Projects
+# 🏆 Featured Projects
+
+<div align="center">
 
 ## 🏥 DocsAura
-Healthcare appointment platform for doctors and patients with scheduling, dashboards, and management system.
+### Healthcare Appointment Platform
 
-### Tech Used:
+Modern healthcare platform for doctors and patients with scheduling system, authentication, dashboards, and appointment management.
+
+**Tech Stack:**  
 `React` `Laravel` `MySQL` `Tailwind CSS`
 
 ---
 
 ## 🏠 HomeNest
-Modern real estate platform for property selling and rentals with advanced admin dashboard.
+### Real Estate Platform
 
-### Tech Used:
-`React` `Laravel` `MySQL`
+Property selling & rental platform with advanced filtering, admin dashboard, and responsive UI.
+
+**Tech Stack:**  
+`React` `Laravel` `REST APIs`
 
 ---
 
 ## 🤖 Unicomnova AI
-AI-powered chatbot platform with analytics dashboard and intelligent interactions.
+### AI Chatbot Platform
 
-### Tech Used:
+AI-powered assistant with analytics dashboard, modern chat system, and admin management.
+
+**Tech Stack:**  
 `React` `Laravel` `AI APIs` `MySQL`
 
 ---
 
-## ⚽ AFCON 2025
-Football platform with live scores, matches, groups, teams, and statistics.
+## 📱 Kairo AI
+### AI Mobile Chat Application
 
-### Tech Used:
+Modern AI chatbot mobile app supporting voice & text interactions with premium Flutter UI.
+
+**Tech Stack:**  
+`Flutter` `Dart` `AI APIs`
+
+---
+
+## ⚽ AFCON 2025
+### Football Live Score Platform
+
+Football web application with matches, teams, standings, groups, and live updates.
+
+**Tech Stack:**  
 `React` `API Integration` `Tailwind CSS`
 
 ---
 
-## ✈️ TripPlanner
-Travel planning application with smart itinerary management and recommendations.
-
-### Tech Used:
-`React` `Laravel`
-
----
-
 ## 🛒 HomixStore & 3otor
-Complete e-commerce platforms with products, cart, orders, and admin management.
+### E-Commerce Platforms
 
-### Tech Used:
+Complete online shopping systems with payments, carts, dashboards, and product management.
+
+**Tech Stack:**  
 `React` `Laravel` `MySQL`
 
----
-
-## 🎓 Edulead
-Online learning platform with courses, dashboards, authentication, and management features.
-
-### Tech Used:
-`React` `Laravel`
-
----
-
-## 📱 Kairo AI
-Modern AI chatbot mobile application supporting text & voice AI interactions with a clean UI and modern architecture.
-
-### Tech Used:
-`Flutter` `Dart` `AI APIs`
+</div>
 
 ---
 
 # 💼 Professional Experience
 
-## 🧩 Internship — Medyouin (Meknès, 2025)
+<div align="center">
 
-- Built an AI Chat application using Laravel & MySQL
-- Developed backend APIs and integrated frontend features
-- Worked with Git & GitHub in collaborative workflows
-- Improved application architecture and API performance
+| Company | Position | Highlights |
+|---|---|---|
+| **Medyouin** | AI Chat Developer | Built AI chat system using Laravel & MySQL |
+| **Yonetwork** | Full Stack Developer | Developed QR attendance tracking app |
+| **OSI Software** | Web Developer Intern | Created React + Laravel business modules |
 
----
-
-## 🧩 Internship — Yonetwork (Meknès, 2025)
-
-- Developed a QR Code attendance management system
-- Built full stack modules using React & Laravel
-- Integrated RESTful APIs and authentication systems
-- Collaborated with development teams on production features
+</div>
 
 ---
 
-## 🧩 Internship — OSI Software (Rabat, 2025)
+# 📊 GitHub Analytics
 
-- Developed React & Laravel web modules
-- Enhanced user interfaces and application experience
-- Worked on real-world business applications
-- Used Git version control in team collaboration
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zakroun&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zakroun&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zakroun&theme=tokyonight&hide_border=true&background=00000000" />
+
+</div>
 
 ---
 
@@ -197,7 +200,7 @@ Modern AI chatbot mobile application supporting text & voice AI interactions wit
 
 ## 🎓 Education
 - 🧾 Specialized Technician in Web Development — OFPPT (2023–2025)
-- 🎓 Baccalauréat — Lycée Lala Amina (2023)
+- 🎓 Baccalauréat — Lycée Lala Amina
 
 ---
 
@@ -209,58 +212,70 @@ Modern AI chatbot mobile application supporting text & voice AI interactions wit
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zakroun&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zakroun&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🌍 Connect With Me
+# 🌍 Let's Connect
 
 <div align="center">
 
 <a href="https://zakaryaerouane-portfolio.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/zakaryae-rouane-53086229a" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://www.instagram.com/coding.withzak/profilecard/?igsh=YjZxOHlwaTNseHps" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-222222?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="mailto:zakaryaerouane@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# 💬 Developer Quote
+# 🧩 Developer Mindset
 
 <div align="center">
 
-> ### "Code. Build. Innovate. Inspire."
->
-> Every project is an opportunity to create something impactful.
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 </div>
 
 ---
 
+# 🐍 Contribution Snake
+
 <div align="center">
 
-### 🚀 Thanks for visiting my profile!
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
-⭐ Don't forget to follow and star repositories you like.
+</div>
+
+---
+
+# ⚡ Fun Facts
+
+- 🚀 I love building modern and clean interfaces
+- 🧠 Passionate about AI & future technologies
+- 📱 Flutter is one of my favorite frameworks
+- 🎯 Always focused on improving performance & UX
+- 🌍 Sharing coding content and helping developers grow
+
+---
+
+<div align="center">
+
+# 💬 Quote
+
+### “Code. Create. Inspire.”
+
+Building products that combine design, performance, and innovation.
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
 
 </div>
