@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./header.png" alt="Header Banner" width="100%" style="border-radius: 12px; height: 320px; border-raduis: 10px; object-fit: cover;" />
+  <img src="./header (2).png" alt="Header Banner" width="100%" style="border-radius: 12px; height: 320px; border-raduis: 10px; object-fit: cover;" />
 </div>
 
 <h1 align="center">👋 Hey there, I'm Zakaryae Rouane! </h1>
