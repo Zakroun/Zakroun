@@ -142,26 +142,6 @@ Modern AI chatbot mobile app supporting voice & text interactions with premium F
 **Tech Stack:**  
 `Flutter` `Dart` `AI APIs`
 
----
-
-## ⚽ AFCON 2025
-### Football Live Score Platform
-
-Football web application with matches, teams, standings, groups, and live updates.
-
-**Tech Stack:**  
-`React` `API Integration` `Tailwind CSS`
-
----
-
-## 🛒 HomixStore & 3otor
-### E-Commerce Platforms
-
-Complete online shopping systems with payments, carts, dashboards, and product management.
-
-**Tech Stack:**  
-`React` `Laravel` `MySQL`
-
 </div>
 
 ---
