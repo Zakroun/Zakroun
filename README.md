@@ -160,17 +160,21 @@ Modern AI chatbot mobile app supporting voice & text interactions with premium F
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zakroun&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zakroun&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zakroun&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zakroun&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
-<br/>
+<br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zakroun&theme=tokyonight&hide_border=true&background=00000000" />
+<img width="70%" src="https://streak-stats.demolab.com?user=Zakroun&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Zakroun&label=Profile%20Views&color=6A5ACD&style=for-the-badge"/>
 
 </div>
 
