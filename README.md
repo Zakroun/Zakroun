@@ -164,13 +164,13 @@ Modern AI chatbot mobile app supporting voice & text interactions with premium F
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=https://github.com/Zakroun&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zakroun&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Zakroun&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zakroun&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <br><br>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=https://github.com/Zakroun&theme=tokyonight&hide_border=true" />
+<img width="70%" src="https://streak-stats.demolab.com?user=Zakroun&theme=tokyonight&hide_border=true" />
 
 </div>
 
