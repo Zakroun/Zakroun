@@ -1,17 +1,15 @@
 <div align="center">
 
-<!-- <img src="./header (2).png" alt="Banner" width="100%" /> -->
-
 <br/>
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Zakaryae+Rouane;Full+Stack+Web+%26+Mobile+Developer;React+%7C+Laravel+%7C+Flutter+Developer;Building+Modern+Digital+Experiences;AI+Enthusiast+%26+Content+Creator" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Zakaryae+Rouane;Full+Stack+Web+Developer;React+%7C+Laravel+Developer;Building+Modern+Digital+Experiences;Content+Creator" />
 
 <br/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Mobile-Flutter%20Developer-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Stack-React%20%7C%20Laravel-111111?style=for-the-badge" />
 </p>
 
 <br/>
@@ -33,12 +31,13 @@
 ```yaml
 name: Zakaryae Rouane
 located_in: Morocco 🇲🇦
+
 current_focus:
   [
     "Full Stack Web Development",
-    "Flutter Mobile Apps",
-    "AI Applications",
-    "Modern UI/UX"
+    "Modern Web Applications",
+    "Modern UI/UX",
+    "Scalable Backend Systems"
   ]
 
 education:
@@ -49,16 +48,16 @@ education:
 fields_of_interest:
   [
     "Web Applications",
-    "Mobile Development",
-    "Artificial Intelligence",
+    "Backend Development",
     "UI/UX Design",
-    "E-commerce Platforms"
+    "E-commerce Platforms",
+    "SaaS Products"
   ]
 
 currently_learning:
   [
-    "Advanced Flutter",
-    "AI Integrations",
+    "Advanced React",
+    "Laravel Architecture",
     "System Design",
     "Scalable Architectures"
   ]
@@ -68,7 +67,7 @@ currently_learning:
     "Build impactful SaaS products",
     "Grow developer audience",
     "Contribute to open source",
-    "Launch innovative AI applications"
+    "Launch modern web platforms"
   ]
 ```
 
@@ -78,7 +77,7 @@ currently_learning:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,php,laravel,nodejs,python,dart,flutter,firebase,mysql,mongodb,docker,git,github,figma,postman,vscode&perline=8" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,php,laravel,nodejs,python,firebase,mysql,mongodb,docker,git,github,figma,postman,vscode&perline=7" />
 
 </div>
 
@@ -88,11 +87,12 @@ currently_learning:
 
 <div align="center">
 
-| 💻 Frontend | ⚙️ Backend | 🗄️ Database |
-|---|---|---|---|
-| React.js | Laravel | Flutter | MySQL |
-| Next.js | PHP | Dart | MongoDB |
-| JavaScript | API Integration | Cross Platform | Database Design |
+| Frontend     | Backend         | Database        | Tools   |
+| ------------ | --------------- | --------------- | ------- |
+| React.js     | Laravel         | MySQL           | Git     |
+| Next.js      | PHP             | MongoDB         | GitHub  |
+| JavaScript   | REST APIs       | Database Design | Postman |
+| Tailwind CSS | API Integration | Firebase        | Figma   |
 
 </div>
 
@@ -103,42 +103,35 @@ currently_learning:
 <div align="center">
 
 ## 🏥 DocsAura
+
 ### Healthcare Appointment Platform
 
 Modern healthcare platform for doctors and patients with scheduling system, authentication, dashboards, and appointment management.
 
-**Tech Stack:**  
+**Tech Stack:**
 `React` `Laravel` `MySQL` `Tailwind CSS`
 
 ---
 
 ## 🏠 HomeNest
+
 ### Real Estate Platform
 
 Property selling & rental platform with advanced filtering, admin dashboard, and responsive UI.
 
-**Tech Stack:**  
+**Tech Stack:**
 `React` `Laravel` `REST APIs`
 
 ---
 
-## 🤖 Unicomnova AI
-### AI Chatbot Platform
+## 🧾 Yonetwork Attendance
 
-AI-powered assistant with analytics dashboard, modern chat system, and admin management.
+### QR Attendance Tracking System
 
-**Tech Stack:**  
-`React` `Laravel` `AI APIs` `MySQL`
+Attendance management platform using QR code scanning, admin dashboard, and secure data tracking.
 
----
-
-## 📱 Kairo AI
-### AI Mobile Chat Application
-
-Modern AI chatbot mobile app supporting voice & text interactions with premium Flutter UI.
-
-**Tech Stack:**  
-`Flutter` `Dart` `AI APIs`
+**Tech Stack:**
+`React` `Laravel` `MySQL`
 
 </div>
 
@@ -148,11 +141,11 @@ Modern AI chatbot mobile app supporting voice & text interactions with premium F
 
 <div align="center">
 
-| Company | Position | Highlights |
-|---|---|---|
-| **Medyouin** | AI Chat Developer | Built AI chat system using Laravel & MySQL |
-| **Yonetwork** | Full Stack Developer | Developed QR attendance tracking app |
-| **OSI Software** | Web Developer Intern | Created React + Laravel business modules |
+| Company      | Position             | Highlights                               |
+| ------------ | -------------------- | ---------------------------------------- |
+| Medyouin     | Web Developer        | Built web modules using Laravel & MySQL  |
+| Yonetwork    | Full Stack Developer | Developed QR attendance tracking app     |
+| OSI Software | Web Developer Intern | Created React + Laravel business modules |
 
 </div>
 
@@ -161,12 +154,6 @@ Modern AI chatbot mobile app supporting voice & text interactions with premium F
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zakroun&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zakroun&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<br><br> -->
 
 <img width="70%" src="https://streak-stats.demolab.com?user=Zakroun&theme=tokyonight&hide_border=true" />
 
@@ -177,16 +164,16 @@ Modern AI chatbot mobile app supporting voice & text interactions with premium F
 # 🎓 Education & Certifications
 
 ## 🎓 Education
-- 🧾 Specialized Technician in Web Development — OFPPT (2023–2025)
-- 🎓 Baccalauréat — Lycée Lala Amina
 
----
+* 🧾 Specialized Technician in Web Development — OFPPT (2023–2025)
+* 🎓 Baccalauréat — Lycée Lala Amina
 
 ## 📜 Certifications
-- 🐍 Python Certificate
-- 🗄️ SQL Certificate
-- 🌐 Git & GitHub Certificate
-- 💻 Web Development Certifications
+
+* 🐍 Python Certificate
+* 🗄️ SQL Certificate
+* 🌐 Git & GitHub Certificate
+* 💻 Web Development Certifications
 
 ---
 
@@ -236,11 +223,10 @@ Modern AI chatbot mobile app supporting voice & text interactions with premium F
 
 # ⚡ Fun Facts
 
-- 🚀 I love building modern and clean interfaces
-- 🧠 Passionate about AI & future technologies
-- 📱 Flutter is one of my favorite frameworks
-- 🎯 Always focused on improving performance & UX
-- 🌍 Sharing coding content and helping developers grow
+* 🚀 I love building modern and clean interfaces
+* 💻 Passionate about web development
+* 🎯 Always focused on improving performance & UX
+* 🌍 Sharing coding content and helping developers grow
 
 ---
 
