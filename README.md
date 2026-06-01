@@ -12,7 +12,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Mobile-Flutter%20Developer-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI-Powered%20Apps-222222?style=for-the-badge" />
 </p>
 
 <br/>
