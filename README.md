@@ -88,11 +88,10 @@ currently_learning:
 
 <div align="center">
 
-| 💻 Frontend | ⚙️ Backend | 📱 Mobile | 🗄️ Database |
+| 💻 Frontend | ⚙️ Backend | 🗄️ Database |
 |---|---|---|---|
 | React.js | Laravel | Flutter | MySQL |
 | Next.js | PHP | Dart | MongoDB |
-| Tailwind CSS | Node.js | Firebase | REST APIs |
 | JavaScript | API Integration | Cross Platform | Database Design |
 
 </div>
